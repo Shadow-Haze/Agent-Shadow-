@@ -48,7 +48,7 @@ def search_movie_or_series(title: str, media_type: str = "movie") -> Dict[str, A
     
 JIKAN_API_URL = "https://api.jikan.moe/v4"
 
-def search_anime(query: str) -> List[Dict[str, Any]]:
+def search_anime(query: str) -> Dict[Dict[str, Any]]:
     """
     Searches for anime titles on MyAnimeList using the Jikan API.
 
