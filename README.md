@@ -78,25 +78,25 @@ The system sends this information to the Mood Analysis Module.
 
 The Mood Analysis Module:
 
--Identifies emotional state
+- Identifies emotional state
 
--Maps mood to compatible genres and activity types
+- Maps mood to compatible genres and activity types
 
 **Step 3:** Querying APIs
 
 The Recommendation Engine triggers the API Integration Layer to:
 
--Fetch anime/manga (Jikan API)
+- Fetch anime/manga (Jikan API)
 
--Fetch books (Google Books API)
+- Fetch books (Google Books API)
 
--Fetch games (FreeToGame API)
+- Fetch games (FreeToGame API)
 
--Fetch music (Last.fm API)
+- Fetch music (Last.fm API)
 
--Fetch movies (OMDb API)
+- Fetch movies (OMDb API)
 
--Fetch places (Google Places API)
+- Fetch places (Google Places API)
 
 Each query is tailored based on the user's mood.
 
@@ -104,17 +104,17 @@ Each query is tailored based on the user's mood.
 
 The APIs return raw data which includes:
 
--Titles
+- Titles
 
--Genres
+- Genres
 
 -Ratings
+ 
+- Descriptions
 
--Descriptions
+- Tags
 
--Tags
-
--Locations (for places)
+- Locations (for places)
 
 The Content Processing Module organizes this data
 __________________
