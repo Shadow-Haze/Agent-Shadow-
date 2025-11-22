@@ -73,7 +73,7 @@ Current mood
 Optional category preference (movies, music, anime, etc.)
 
 The system sends this information to the Mood Analysis Module.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Step 2:** Mood Classification
 
 The Mood Analysis Module:
@@ -81,8 +81,6 @@ The Mood Analysis Module:
 Identifies emotional state
 
 Maps mood to compatible genres and activity types
-
-Passes the mood profile to the Recommendation Engine
 
 **Step 3:** Querying APIs
 
