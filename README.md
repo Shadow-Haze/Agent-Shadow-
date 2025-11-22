@@ -57,7 +57,7 @@ It is suggested you create a vitrual environment
 
 Running the Agent in ADK Web mode
 From the command line of the working directory execute the following command.
-_________
+
 |adk web|
 ---------
 ***Workflow of the Shadow System***
@@ -73,7 +73,7 @@ Current mood
 Optional category preference (movies, music, anime, etc.)
 
 The system sends this information to the Mood Analysis Module.
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Step 2:** Mood Classification
 
 The Mood Analysis Module:
