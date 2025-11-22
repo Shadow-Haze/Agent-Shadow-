@@ -18,7 +18,7 @@ _____________________________________________
 - Shadow is designed as a smart and intuitive agent created to solve the growing issue of decision fatigue in today’s generation. With countless entertainment and activity options available, people often spend more time trying to decide what to do than actually enjoying their free time. Shadow bridges this gap by offering personalized and mood-based suggestions, allowing users to make quick and satisfying choices without the stress of overthinking.
 
 - Whether you're in the mood for movies, games, songs, anime, manga, or books, Shadow instantly curates recommendations that match your emotional state and interests. It goes beyond digital entertainment by also suggesting real-world activities. By understanding your mood and offering tailored options, Shadow ensures that your precious free time is used wisely—helping you relax, explore, or be productive without wasting time on indecision.
-
+_____________________________________________
 #**Architecture Description:**
 
 The architecture of Shadow is designed to efficiently analyze user moods, interpret preferences, and deliver personalized activity recommendations across multiple categories. The system follows a modular, multi-layered structure that ensures smooth interaction, accurate suggestions, and scalable performance.
@@ -46,10 +46,10 @@ By integrating the Last.fm API, Shadow can deliver music recommendations that pe
 ¤ OMDb API — Interesting Movie Recommendations
 
 The OMDb API provides Shadow with access to a vast database of movies, complete with genres, plots, ratings, and viewer feedback. By aligning these details with the user’s current mood, Shadow offers highly relevant and engaging movie suggestions—whether they want something thrilling, emotional, humorous, or thought-provoking. This integration ensures users discover films that perfectly suit their vibe without endless browsing.
-
+_____________________________________________
 #**Conclusion:**
 This system not only saves time but also enhances the user’s overall experience by ensuring that every suggestion feels relevant, enjoyable, and personalized. The seamless interaction between the mood analysis module, recommendation engine, and diverse API integrations makes Shadow a versatile and intelligent companion for anyone seeking to make the most of their free time. In a world full of overwhelming choices, Shadow stands as a thoughtful guide—helping users spend less time deciding and more time doing.
-
+---------------------------------------------
 **Installation**
 This project was built against Python 3.11.3.
 
@@ -57,9 +57,9 @@ It is suggested you create a vitrual environment
 
 Running the Agent in ADK Web mode
 From the command line of the working directory execute the following command.
-
-adk web
-
+_________
+|adk web|
+---------
 ***Workflow of the Shadow System***
 
 This workflow explains how Shadow processes user input to deliver accurate, mood-based recommendations.
