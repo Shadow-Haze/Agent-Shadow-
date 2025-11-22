@@ -1,6 +1,7 @@
 # Agent-Shadow-
 Agent Shadow suggests: Games according to your mood, Book, Hotel near you, Anime and music that suits your vibe.....
 
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/cb2e7d14-7a7d-427c-b312-708610bd76c9" />
 
 # **Agent Overview:**
 This agent is designed to address a common confusion many people face today: having plenty of free time but not knowing how to use it effectively. Whether someone wants to be productive or simply unwind and enjoy themselves, they often struggle to decide what to do. Shadow solves this problem by understanding your mood and guiding you toward the most suitable activity. Whether you’re feeling energetic, bored, stressed, or curious, Shadow will help you choose the perfect way to spend your time—productively or playfully—making every moment count.
