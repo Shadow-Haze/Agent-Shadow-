@@ -60,7 +60,7 @@ From the command line of the working directory execute the following command.
 ~~~~~~~
 adk web
 ~~~~~~~
-***Workflow of the Shadow System***
+***Workflow***
 
 This workflow explains how Shadow processes user input to deliver accurate, mood-based recommendations.
 
