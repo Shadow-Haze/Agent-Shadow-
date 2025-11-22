@@ -49,7 +49,7 @@ The OMDb API provides Shadow with access to a vast database of movies, complete 
 _____________________________________________
 #**Conclusion:**
 This system not only saves time but also enhances the user’s overall experience by ensuring that every suggestion feels relevant, enjoyable, and personalized. The seamless interaction between the mood analysis module, recommendation engine, and diverse API integrations makes Shadow a versatile and intelligent companion for anyone seeking to make the most of their free time. In a world full of overwhelming choices, Shadow stands as a thoughtful guide—helping users spend less time deciding and more time doing.
----------------------------------------------
+_____________________________________________
 **Installation**
 This project was built against Python 3.11.3.
 
@@ -57,9 +57,9 @@ It is suggested you create a vitrual environment
 
 Running the Agent in ADK Web mode
 From the command line of the working directory execute the following command.
-
-|adk web|
----------
+~~~~~~~
+adk web
+~~~~~~~
 ***Workflow of the Shadow System***
 
 This workflow explains how Shadow processes user input to deliver accurate, mood-based recommendations.
