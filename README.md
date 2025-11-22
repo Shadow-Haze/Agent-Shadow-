@@ -4,7 +4,7 @@ Agent Shadow suggests: Games according to your mood, Book, Hotel near you, Anime
 
 # **Agent Overview:**
 This agent is designed to address a common confusion many people face today: having plenty of free time but not knowing how to use it effectively. Whether someone wants to be productive or simply unwind and enjoy themselves, they often struggle to decide what to do. Shadow solves this problem by understanding your mood and guiding you toward the most suitable activity. Whether you’re feeling energetic, bored, stressed, or curious, Shadow will help you choose the perfect way to spend your time—productively or playfully—making every moment count.
-
+_____________________________________________
 #**Problem:**
 - People in this generation spend more time deciding what to do than actually doing it. With countless options available—from movies, games, and books to hobbies, workouts, and learning opportunities—many people get stuck in a loop of indecision. Instead of enjoying their free time, they end up scrolling endlessly, comparing choices, and overthinking what might be the “best” way to spend the moment. By the time they finally make a decision, much of their free time has already slipped away.
 
