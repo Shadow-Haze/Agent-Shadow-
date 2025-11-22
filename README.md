@@ -60,11 +60,11 @@ From the command line of the working directory execute the following command.
 
 adk web
 
-Workflow of the Shadow System
+***Workflow of the Shadow System***
 
 This workflow explains how Shadow processes user input to deliver accurate, mood-based recommendations.
 
-Step 1: User Input
+**Step 1:** User Input
 
 The user selects:
 
@@ -74,7 +74,7 @@ Optional category preference (movies, music, anime, etc.)
 
 The system sends this information to the Mood Analysis Module.
 
-Step 2: Mood Classification
+**Step 2:** Mood Classification
 
 The Mood Analysis Module:
 
@@ -84,7 +84,7 @@ Maps mood to compatible genres and activity types
 
 Passes the mood profile to the Recommendation Engine
 
-Step 3: Querying APIs
+**Step 3:** Querying APIs
 
 The Recommendation Engine triggers the API Integration Layer to:
 
@@ -102,7 +102,7 @@ Fetch places (Google Places API)
 
 Each query is tailored based on the user's mood.
 
-Step 4: Data Collection
+**Step 4:** Data Collection
 
 The APIs return raw data which includes:
 
